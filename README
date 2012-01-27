@@ -2,22 +2,22 @@
 About Discussion-Forum
 ======================
 
-Discussion Forum is an application using which users can initiate a discussion or participate in an existing discussion on LAN.
-It is implemented using socket programming in C which also makes use of record locking of file and process management.
+ **Discussion Forum** is an application using which users can initiate a discussion or participate in an existing discussion on LAN.
+ It is implemented using socket programming in C which also makes use of record locking of file and process management.
 
 ============
 Installation
 ============
 
-This is pretty simple...
+ This is pretty simple...
  - Just compile using installer file
      $ sh installer
- - And then
-     $ ./server/server   		(to run the server)
- - OR
-     $ ./clent/client <server_addr> 	(to run the client side app)
+ - To run the server
+     $ ./server/server
+ - To run the client program
+     $ ./clent/client <server_addr> 	
 
 =============
 Demonstration
 =============
-Just browse the /images directory for a small demo of various features of this application
+ Just browse the '/images' directory for a small demo of various features of this application

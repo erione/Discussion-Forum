@@ -2,7 +2,7 @@
 About Discussion-Forum
 ======================
 
- **Discussion Forum** is an application using which users can initiate a discussion or participate in an existing discussion on LAN.
+ Discussion Forum is an application using which users can initiate a discussion or participate in an existing discussion on LAN.
  It is implemented using socket programming in C which also makes use of record locking of file and process management.
 
 ============
@@ -20,4 +20,4 @@ Installation
 =============
 Demonstration
 =============
- Just browse the '/images' directory for a small demo of various features of this application
+ Just browse the /images directory for a small demo of various features of this application
